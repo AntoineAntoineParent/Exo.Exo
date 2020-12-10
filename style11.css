@@ -1,0 +1,20 @@
+
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.titre{
+    background-color: blue;
+}
+#telephone{
+    text-decoration:underline;
+}
+
+.année{
+    font-weight: bold;
+}
+
+.lieu{
+    font-style: italic;
+}

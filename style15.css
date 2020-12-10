@@ -1,0 +1,8 @@
+td,th 
+{
+    border: 1px solid black;
+}
+
+.ligne1 .ligne2 .ligne3{
+    font-weight: bold;
+}

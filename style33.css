@@ -1,0 +1,17 @@
+#divJaune {
+    background-color: rgb(224, 224, 86);
+    height: 200px;
+    width: 200px;
+}
+
+#divBleue {
+    background-color: rgb(104, 104, 218);
+    height: 200px;
+    width: 200px;
+}
+
+#divRose {
+    background-color: rgb(160, 52, 111);
+    height: 200px;
+    width: 200px;
+}

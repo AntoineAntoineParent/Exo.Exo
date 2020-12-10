@@ -1,0 +1,20 @@
+#leviolet {
+    background-color: rgb(224, 14, 213);
+    height: 250px;
+    width: 250px;
+    display: inherit;
+}
+
+#lerouge {
+    background-color: rgb(204, 31, 31);
+    height: 250px;
+    width: 250px;
+    display: none;
+}
+
+#levert {
+    background-color: rgb(19, 226, 30);
+    height: 250px;
+    width: 250px;
+    display: none;
+}
